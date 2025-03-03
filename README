@@ -1,0 +1,23 @@
+# Fast
+
+O futuro da linguagem de programação.
+
+## Descrição
+
+Fast é uma linguagem de programação inovadora projetada para... [adicione uma breve descrição sobre os objetivos e características da linguagem].
+
+## Estrutura do Projeto
+
+- **exemplo/**: Contém exemplos de código e aplicações desenvolvidas em Fast.
+- **header/**: Inclui os arquivos de cabeçalho necessários para a compilação e funcionamento da linguagem.
+- **src/**: Diretório principal com o código-fonte da linguagem Fast.
+- **MAKEFILE**: Script de automação para compilar e construir o projeto.
+
+## Instalação
+
+Para compilar e instalar a linguagem Fast em seu sistema, siga os passos abaixo:
+
+1. Clone este repositório:
+
+   ```bash
+   git clone https://github.com/pedromael/Fast.git
