@@ -1,9 +1,6 @@
-#include <stdio.h>
-#include <stdlib.h>
 #include "../header/index.h"
-#include "tokenizer.h"
-#include "parser.h"
-#include "runtine.h"
+#include "../header/tokenizer.h"
+#include "../header/runtine.h"
 
 int main(int argc, char *argv[]) {
     if (argc != 2) {
