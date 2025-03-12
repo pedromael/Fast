@@ -2,6 +2,7 @@
 #define TOKENIZER_H
 
 #include "index.h"
+#include <ctype.h>
 
 // Funções para tokenização
 Token** tokenizar(const char *input, int *num_tokens);

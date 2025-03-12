@@ -1,3 +1,4 @@
 mostrar("Olá, mundo");
 5 + 3; // Soma
 4 * 2; // Multiplicação
+mostrar(10);

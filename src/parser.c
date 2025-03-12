@@ -37,7 +37,9 @@ Node* parse_expression() {
 
 // Função principal de parsing
 Node* parse(const char *input) {
+    printf("code parser\n");
     tokens = tokenizar(input, &num_tokens);
+    printf("Tokens: %d\n", num_tokens);
     pos = 0;
     return parse_expression();
 }
